@@ -3,11 +3,12 @@ import { Canvas } from "@react-three/fiber";
 import { Suspense } from "react";
 import { Experience } from "./components/Experience";
 import { UI } from "./components/UI";
+import ChatAI from "./components/ChatAI";
 
 function App() {
   return (
     <>
-      <UI />
+      {/* <UI />
       <Loader />
       <Canvas
         shadows
@@ -21,7 +22,11 @@ function App() {
             <Experience />
           </Suspense>
         </group>
-      </Canvas>
+      </Canvas> */}
+      <div style={{ padding: "20px", fontFamily: "sans-serif" }}>
+        <h1>🤖 AI Chatbox (Together + Hugging Face)</h1>
+        <ChatAI />
+      </div>
     </>
   );
 }

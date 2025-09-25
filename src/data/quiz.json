@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Quyền nào sau đây là quyền cơ bản của phụ nữ?",
+    "options": [
+      "Quyền được bầu cử và ứng cử",
+      "Quyền được làm việc và hưởng lương công bằng",
+      "Quyền được học hành và phát triển bản thân",
+      "Tất cả các quyền trên"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Phong trào nữ quyền bắt đầu vào thế kỷ nào?",
+    "options": ["Thế kỷ 18", "Thế kỷ 19", "Thế kỷ 20", "Thế kỷ 21"],
+    "answer": "B"
+  },
+  {
+    "question": "Ai là người phụ nữ đầu tiên trên thế giới được trao giải Nobel?",
+    "options": [
+      "Marie Curie",
+      "Rosa Parks",
+      "Emmeline Pankhurst",
+      "Malala Yousafzai"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Khái niệm 'glass ceiling' (tường kính) dùng để chỉ điều gì?",
+    "options": [
+      "Sự phân biệt đối xử trong lĩnh vực xây dựng",
+      "Những rào cản vô hình ngăn cản phụ nữ thăng tiến trong công việc",
+      "Một loại vật liệu xây dựng mới",
+      "Sự khác biệt về giới tính trong lĩnh vực nghệ thuật"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Công ước CEDAW là công ước quốc tế về vấn đề gì?",
+    "options": [
+      "Quyền của trẻ em",
+      "Quyền của người khuyết tật",
+      "Xóa bỏ mọi hình thức phân biệt đối xử với phụ nữ",
+      "Bảo vệ môi trường"
+    ],
+    "answer": "C"
+  }
+]
